@@ -87,4 +87,6 @@ Completing the project involves several steps:
 
 For more detail about each of these steps, see the project lesson.
 
-## Test commit
+## Env file setup
+JWT_SECRET='myjwtsecret'
+LOG_LEVEL=DEBUG
